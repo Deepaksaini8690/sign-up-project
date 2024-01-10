@@ -1,0 +1,27 @@
+div {
+    text-align: center;
+    color:whitesmoke;
+    border-style:ridge;
+    background-color:rgb(18, 18, 56);
+    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#div1 {
+width: 1450px;
+
+}
+#div2{
+width: 800px;
+
+}
+
+.div5 {
+    font-size: larger;
+}
+
+
+
+
